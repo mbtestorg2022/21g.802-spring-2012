@@ -15,15 +15,108 @@ Please also see:
 *   [Símbolos para a correção das redações (PDF)]({{< baseurl >}}/resources/mit21g_802s12_symboles)
 *   Van den Dool, Karin. _Vocabulary Supplement_.  Stanford University, Stanford, CA. 
 
-| READING | QUESTIONS |
-| --- | --- |
-| "Povo" | None |
-| "Posto 5" | [Posto 5 (PDF)]({{< baseurl >}}/resources/mit21g_802s12_posto_5) |
-| "Moça do interior" | [Moça do interior (PDF)]({{< baseurl >}}/resources/mit21g_802s12_mocadointeri) |
-| "A Vilminha" | [A Vilminha (PDF)]({{< baseurl >}}/resources/mit21g_802s12_vilminha) |
-| "Puxa-puxa" | [Puxa-puxa (PDF)]({{< baseurl >}}/resources/mit21g_802s12_puxa_puxa) |
-| "Enquanto dure" | [Enquanto dure (PDF)]({{< baseurl >}}/resources/mit21g_802s12_enquantodure) |
-| "A retranqueta do polidor" | [A retranqueta do polidor (PDF)]({{< baseurl >}}/resources/mit21g_802s12_a_retranquet) |
-| "João e Maria" | [João e Maria (PDF)]({{< baseurl >}}/resources/mit21g_802s12_joao_e_maria) |
-| "Amigos" | Complete the questions on p. 587 of Tolman, J., N. Parsons, and R. Paiva_._ _Travessia: A Video-Based Portuguese Textbook._ Vol. II: Units 7-12. Georgetown University Press, 1989. ISBN: 9780878402281. |
-| "Rubens" | [Rubens (PDF)]({{< baseurl >}}/resources/mit21g_802s12_rubens)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+READING
+{{< thclose >}}
+{{< thopen >}}
+QUESTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Povo"
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Posto 5"
+{{< tdclose >}}
+{{< tdopen >}}
+[Posto 5 (PDF)]({{< baseurl >}}/resources/mit21g_802s12_posto_5)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Moça do interior"
+{{< tdclose >}}
+{{< tdopen >}}
+[Moça do interior (PDF)]({{< baseurl >}}/resources/mit21g_802s12_mocadointeri)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"A Vilminha"
+{{< tdclose >}}
+{{< tdopen >}}
+[A Vilminha (PDF)]({{< baseurl >}}/resources/mit21g_802s12_vilminha)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Puxa-puxa"
+{{< tdclose >}}
+{{< tdopen >}}
+[Puxa-puxa (PDF)]({{< baseurl >}}/resources/mit21g_802s12_puxa_puxa)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Enquanto dure"
+{{< tdclose >}}
+{{< tdopen >}}
+[Enquanto dure (PDF)]({{< baseurl >}}/resources/mit21g_802s12_enquantodure)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"A retranqueta do polidor"
+{{< tdclose >}}
+{{< tdopen >}}
+[A retranqueta do polidor (PDF)]({{< baseurl >}}/resources/mit21g_802s12_a_retranquet)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"João e Maria"
+{{< tdclose >}}
+{{< tdopen >}}
+[João e Maria (PDF)]({{< baseurl >}}/resources/mit21g_802s12_joao_e_maria)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Amigos"
+{{< tdclose >}}
+{{< tdopen >}}
+Complete the questions on p. 587 of Tolman, J., N. Parsons, and R. Paiva_._ _Travessia: A Video-Based Portuguese Textbook._ Vol. II: Units 7-12. Georgetown University Press, 1989. ISBN: 9780878402281.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Rubens"
+{{< tdclose >}}
+{{< tdopen >}}
+[Rubens (PDF)]({{< baseurl >}}/resources/mit21g_802s12_rubens)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
